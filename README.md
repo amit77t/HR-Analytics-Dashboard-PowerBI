@@ -1,4 +1,4 @@
-# HR Analytics KPIs Dashboard using Power-BI
+# HR-Analytics-Dashboard-PowerBI
 ## Project: HR Gender Diversity and Inclusion Analytics With Power BI
 
 ## 🔖Key Features:
